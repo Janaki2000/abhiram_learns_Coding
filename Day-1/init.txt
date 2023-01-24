@@ -1,3 +1,0 @@
-This is my first text file that I am pushing to git.
-
-I am going to start on my C programming learning path.
